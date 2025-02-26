@@ -19,7 +19,11 @@
 		]
 	},
 		"physics":"physics.json",
-		
+		"layout": {
+        "center_x": 0,
+        "center_y": -0.16,
+        "width": 1.6
+    },
     "hit_areas":[
 			{"name":"body","id":"D_REF.BODY"},
 			{"name":"head","id":"D_REF.HEAD"},
