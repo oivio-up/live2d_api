@@ -4,6 +4,9 @@
 	"textures":[
 		"model.1024/texture_00.png"
 	],
+    "expressions": [
+        {"name": "f01", "file": "expressions/f01.exp.json"}
+    ],
 	"motions":{
         "idle":[
             {"file":"motions/daiji_idle_02.mtn"}
